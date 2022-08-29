@@ -22,6 +22,6 @@ Experience as **Full-stack development** with **Javascript / TypeScript**, **Rea
 <div align="center">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SirSalamandra)](https://twitter.com/SirSalamandra)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirsalamandra/)](https://www.linkedin.com/in/sirsalamandra/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirsalamandra/)](https://www.linkedin.com/in/jp-santos-silva)
   
 </div>
