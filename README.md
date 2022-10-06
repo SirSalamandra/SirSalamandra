@@ -13,7 +13,7 @@
     </a>
 </div>
 
-Hi, my name is João Pedro [(Salamandra)](https://twitter.com/SirSalamandra). I'm 22 years old and 3 years of experience as a software developer. I like to explore, learn (and practice) new things and share my knowledge with other people.
+Hi, my name is João Pedro [(Salamandra)](https://twitter.com/SirSalamandra). I'm 22 years old and almost 5 years of experience as a software developer. I like to explore, learn (and practice) new things and share my knowledge with other people.
 
 Experience as **Full-stack development** with **Javascript / TypeScript**, **React**, **C#**, **SQL** and more technologies, focusing on products aligned with user needs.
 
