@@ -1,7 +1,7 @@
-<h1 align="center"> João Pedro </h1>
+<h1 align="center"> João Silva </h1>
 
 <p align="center">
-~ I'm just a weird person who wants to change (at least a little) the world for the better, through people and technology ⚛️🌎
+     I'm just a weird person
 </p>
 
 ----
@@ -13,7 +13,7 @@
     </a>
 </div>
 
-Hi, my name is João Pedro [(Salamandra)](https://twitter.com/SirSalamandra). I'm 23 years old and almost 5 years of experience as a software developer. I like to explore, learn (and practice) new things and share my knowledge with other people.
+Hi, my name is João Pedro [(Salamandra)](https://twitter.com/SirSalamandra). I'm 23 years old and I have almost 5 years of experience as a software developer. I like to explore, learn (and practice) new things and share my knowledge with other people.
 
 Experience as **Full-stack development** with **Javascript / TypeScript**, **React**, **React Native**, **C#**, **SQL** and more technologies.
 
