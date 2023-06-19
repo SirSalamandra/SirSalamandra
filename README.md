@@ -1,7 +1,7 @@
 <h1 align="center"> João </h1>
 
 <p align="center">
-     I'm just a weird person
+     I'm definitely a person!
 </p>
 
 ----
