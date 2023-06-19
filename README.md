@@ -1,4 +1,4 @@
-<h1 align="center"> João Silva </h1>
+<h1 align="center"> João </h1>
 
 <p align="center">
      I'm just a weird person
